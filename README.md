@@ -10,6 +10,8 @@ bower install
 
 To run (from project root): 
 node server/server.js
+or
+slc run
 
 The game is in /client directory, big WIP!
 
